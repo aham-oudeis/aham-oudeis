@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Gagan!
 
-I am software engineer based in Fremont, California.
+I am a software engineer based in Fremont, California.
 
-I really excited about building robust and resilient software.
+I am really excited about working on challenges that arise in distributed systems and building robust and scalable applications to solve the problems.
 
 ## Skills
 ### Backend
